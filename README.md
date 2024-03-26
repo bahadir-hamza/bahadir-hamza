@@ -13,3 +13,5 @@ Here are some ideas to get you started: --!>
  - 📫 How to reach me: bahadirhamza2@gmail.com </br>
  - 😄 Pronouns: he/him </br>
  - ⚡ Fun fact: FreeBSD is not dead </br>
+
+![Visitor Count](https://profile-counter.glitch.me/bahadir-hamza/count.svg)
