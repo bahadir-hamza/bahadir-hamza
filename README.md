@@ -14,4 +14,4 @@ Here are some ideas to get you started: --!>
  - 😄 Pronouns: he/him </br>
  - ⚡ Fun fact: FreeBSD is not dead </br>
 
-![Visitor Count](https://profile-counter.glitch.me/bahadir-hamza/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/bahadir-hamza/count.svg)
